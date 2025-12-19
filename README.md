@@ -12,7 +12,7 @@ This code example has a three project structure - CM33 secure, CM33 non-secure, 
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-psoc-edge-epc2-tfm-crypto)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDE1MDkiLCJTcGVjIE51bWJlciI6IjAwMi00MTUwOSIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBUcnVzdGVkIEZpcm13YXJlLU0gKFRGLU0pIENyeXB0byBhcHBsaWNhdGlvbiAtIEVQQzIiLCJyaWQiOiJ0ZWphcyBrYWRnYW9ua2FyIiwiRG9jIHZlcnNpb24iOiIyLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiUFNPQyJ9)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDE1MDkiLCJTcGVjIE51bWJlciI6IjAwMi00MTUwOSIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBUcnVzdGVkIEZpcm13YXJlLU0gKFRGLU0pIENyeXB0byBhcHBsaWNhdGlvbiAtIEVQQzIiLCJyaWQiOiJ0ZWphcy5rYWRnYW9ua2FyQGluZmluZW9uLmNvbSIsIkRvYyB2ZXJzaW9uIjoiMi4xLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
 
 See the [Design and implementation](docs/design_and_implementation.md) for the functional description of this code example.
 
@@ -109,6 +109,7 @@ Document title: *CE241509* - *PSOC&trade; Edge MCU: Trusted Firmware-M (TF-M) Cr
  ------- | ---------------------
  1.x.0   | New code example <br> Early access release
  2.0.0   | GitHub release
+ 2.1.0   | Update PPC configuration
 
 <br>
 
